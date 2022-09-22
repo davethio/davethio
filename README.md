@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davethio
+- 👋 Hi, I’m @davecthio
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on new projects
