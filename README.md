@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @davecthio
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on new projects
+- 🌱 I’m currently streaming in Intelligent Systems (AI)
+- 💞️ I’m also interested in web/software development.
 - 📫 How to reach me:
-  - Discord: Dave Thio##9958
+  - Discord: Darko##9958
   - Instagram: @davecthio
 
 <!---
