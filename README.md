@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @davecthio
-- 👀 I’m interested in Computer Science
+- 👀 I’m majoring in Computer Science
 - 🌱 I’m currently streaming in Intelligent Systems (AI)
-- 💞️ I’m also interested in web/software development.
+- 💞️ I’m interested in data science, data analytics, and artificial intelligence! I also make a few contents on my TikTok and Instagram!
 - 📫 How to reach me:
-  - Discord: Darko##9958
+  - TikTok: @davecthio
   - Instagram: @davecthio
 
 <!---
