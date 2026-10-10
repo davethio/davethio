@@ -9,17 +9,7 @@ Master's student at Tsinghua University
 
 I'm interested in AI, data science, and how we can learn from human signals—from facial expressions to the way we speak.
 
-Exploring   `Artificial intelligence` · `Data science` · `Multimodal learning`
-
-Featured project
-
-[Multimodal Emotion Analysis ↗](https://github.com/davethio/RAVDESS-Multimodal-Emotion-Analysis)
-
-What do a face and a voice tell us together?
-
-Investigating where facial cues and speech prosody overlap—and where they offer complementary information—in emotional communication, using RAVDESS.
-
-[Explore the project →](https://github.com/davethio/RAVDESS-Multimodal-Emotion-Analysis)
+Exploring   `Artificial intelligence` · `Data science`
 
 Let's connect
 
