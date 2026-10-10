@@ -4,12 +4,8 @@
 </picture>
 <br>
 
-Master's student at Tsinghua University
+Master's student (Big Data Technology and Engineering) at Tsinghua University
 [Tsinghua Shenzhen International Graduate School (Tsinghua SIGS)](https://www.sigs.tsinghua.edu.cn/en/7382/list.htm)
-
-I'm interested in AI, data science, and how we can learn from human signals—from facial expressions to the way we speak.
-
-Exploring   `Artificial intelligence` · `Data science`
 
 Let's connect
 
